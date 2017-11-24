@@ -1,0 +1,10 @@
+# ################################################# ##############################
+# Inicialización
+# ################################################# ##############################
+
+# versión mínima de CMake necesaria para construir proyectos
+cmake_minimum_required ( VERSIÓN 2.8)
+
+proyecto (matrices)
+
+add_executable (matrices main.cpp)
